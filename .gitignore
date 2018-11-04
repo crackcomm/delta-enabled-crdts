@@ -1,0 +1,8 @@
+
+
+*.o
+*.so
+*.obj
+
+delta-crdts
+delta-tests
